@@ -1,7 +1,6 @@
 ```/etc/apt/sources.list```
 ```
 # 海外源(香港科技大学)
-# 把域名替换掉
 https://mirror.xtom.com.hk
 # 国内源(腾讯云)
 http://mirrors.tencent.com
